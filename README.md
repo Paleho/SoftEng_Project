@@ -1,8 +1,14 @@
-Semester Project for Software Engineering Course @ NTUA, 2020 - 2021
+#Semester Project for Software Engineering Course @ NTUA, 2020 - 2021
 
-Team:
-Astrinakis Nikolaos,
-Chlapanis Odysseas,
-Poutas Sokratis,
-Stais Aggelos,
-Tampakakis Christos
+##Development Team:
+- Frontend 
+  - Astrinakis Nikolaos
+  - Stais Aggelos
+- CLI
+  - Chlapanis Odysseas
+  - Tampakakis Christos
+- Backend
+  - Poutas Sokratis
+- Database
+  - Astrinakis Nikolaos
+  - Tampakakis Christos
