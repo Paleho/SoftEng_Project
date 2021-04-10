@@ -1,6 +1,6 @@
-#Semester Project for Software Engineering Course @ NTUA, 2020 - 2021
+# Semester Project for Software Engineering Course @ NTUA, 2020 - 2021
 
-##Development Team:
+## Development Team:
 - Frontend 
   - Astrinakis Nikolaos
   - Stais Aggelos
